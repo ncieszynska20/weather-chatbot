@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asystent Pogodowy</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="chat-container">
+
+    <div class="chat-header">
+        <div class="bot-avatar">🤖</div>
+        <div class="header-text">
+            <h3>Asystent Pogodowy</h3>
+            <span class="status"><span class="status-dot"></span> Online</span>
+        </div>
+        
+        <div class="header-actions" style="margin-left: auto; display: flex; gap: 5px; align-items: center;">
+            <button onclick="clearChat()" class="icon-btn" title="Wyczyść">🗑️</button>
+            <button onclick="toggleTheme()" id="theme-btn" class="icon-btn" title="Zmień motyw">🌙</button>
+        </div>
+    </div>
+
+    <div class="chat-box" id="chat-box">
+    </div>
+
+    <div class="chat-input">
+        <input type="text" id="user-input" placeholder="Wpisz miasto lub warunki...">
+        <button class="send-btn" onclick="sendMessage()">Wyślij</button>
+    </div>
+
+</div>
+
+    <script src="script.js"></script>
+</body>
+</html>
