@@ -34,10 +34,12 @@ localStorage jako system bazodanowy po stronie klienta.
 
 ## 5. Przykładowa rozmowa:
 Użytkownik: "Toruń"
+
 Bot: "Aktualnie w miejscowości Toruń jest 14°C. Warunki: zachmurzenie duże.
 Wystarczy przejściowa kurtka (np. ramoneska) i bluza. 🧥👟"
 
 Użytkownik: "Jest 12 stopni i pada deszcz"
+
 Bot: "Wykryłem temperaturę 12°C. 🌡️ Pogoda jest przejściowa. Idealnie sprawdzi się bluza, bomberka lub ramoneska i długie spodnie. 🧥🌤️
 Pamiętaj, że dodatkowo pada deszcz – koniecznie zabierz ze sobą parasol! ☔🌧️"
 
