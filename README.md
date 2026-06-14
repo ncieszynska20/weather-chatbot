@@ -3,13 +3,21 @@
 Asystent Pogodowy to responsywna aplikacja webowa typu chatbot, która pozwala użytkownikom na sprawdzanie aktualnych warunków pogodowych w czasie rzeczywistym. Bot analizuje dane pogodowe pobierane z OpenWeather API oraz generuje odpowiednie sugestie dotyczące stroju, ochrony przed deszczem, zimnem oraz wysokimi temperaturami.
 ## 2. Technologie
 *Frontend: HTML5, CSS3*
+
 *JavaScript*
+
 *Fetch API*
+
 *OpenWeatherMap API*
+
 *LocalStorage*
+
 *GitHub*
+
 *GitHub Pages*
+
 *VS Code*
+
 ## 3. Funkcjonalności
 Interaktywny interfejs czatu z podziałem na wiadomości bota i użytkownika
 
